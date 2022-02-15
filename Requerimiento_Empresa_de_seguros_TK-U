@@ -1,0 +1,31 @@
+Requerimiento Empresa de seguros TK-U
+
+	La empresa de seguros TK-U requiere un programa que pueda realizar varias cotizaciones
+de forma automatica, ya que actualmente el proceso para trabajar las es de forma manual
+y eso quita mucho tiempo en las personas encargadas de realizarlas.
+
+	Esto hace que las personas que trabajan las cotizaciones solo puedan hacer como maximo
+50 al dia y por lo tanto genera un gran atraso en la entrega de las mismas y por lo mismo
+podrian estar perdiendo posibles clientes.
+
+	Por lo tanto la Empresa de seguros TK-U requiere un programa que pueda realizar los 
+calculos de las cotizaciones.
+
+	Requerimientos
+
+	1. La persona debe de ser mayor de edad (18 años) para poder optar a seguro
+
+	2. Se posee un plan base y sobre ese se aplican los siguientes recargos:
+		2.1. Edad del asegurado.
+		2.2. Estado civil y edad del conyuge.
+		2.3. Cantidad de hijos.
+
+	3. Estos son los recargos en base de la edad para los incisos 1 y 2 :
+		3.1. Entre 18 a 24 años -- Recargo del 10% al precio base.
+		3.2. Entre 25 a 49 años -- Recargo del 20% al precio base.
+		3.3. Entre 50 o mas años -- Recargo del 30% al precio base.
+		3.4. Para cada hijo se aplica un recargo de 20%.
+
+	4. El unico recargo obligatorio es la edad del asegurado, ya que puede o no estar casado o tener hijos.
+
+	5. Todos los recargos siempre van a ser acumulativos al precio base.

@@ -1,0 +1,17 @@
+Algoritmo Empresa de seguros TK-U
+
+1.  Iniciar programa.
+2.  Iniciar las variables a usar con sus valores por defecto.
+3.  Solicitar y analizar edad del asegurado.
+4.  Si el asegurado es mayor de edad (18 años) continuar, de lo contrario terminar.
+5.  Aplicar recargo de edad al asegurado en base al listado.
+6.  Solocitar y analizar estado civil.
+7.  Si el asegurado posee conyuge, solicitar edad del conyuge, de lo contrario avanzar.
+8.  Si el asegurado tiene conyuge, aplicar recargo segun edad del conyugen en base al listado.
+9.  Si el asegurado posee hijos, solicitar cantidad de hijos, de lo contrario avanzar.
+10. Si el asegurado tiene hijos, aplicar recargo asignado por la cantidad de hijos.
+11. Sumar todos los recargos que se aplicaron al asegurado.
+12. Al precio base sumar los recargos previamente calculados.
+13. Mostrar la cotizacion con los resultados.
+14. Ternimar programa.
+
